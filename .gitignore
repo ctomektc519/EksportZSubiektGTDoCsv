@@ -224,6 +224,10 @@ FakesAssemblies/
 
 # GhostDoc plugin setting file
 *.GhostDoc.xml
+#My Ignores
+
+Documentation/*.docx
+
 
 # Node.js Tools for Visual Studio
 .ntvs_analysis.dat
