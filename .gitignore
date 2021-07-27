@@ -226,7 +226,7 @@ FakesAssemblies/
 *.GhostDoc.xml
 #My Ignores
 
-Documentation/*.docx
+*.docx
 
 
 # Node.js Tools for Visual Studio
