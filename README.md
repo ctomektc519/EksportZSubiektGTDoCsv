@@ -1,4 +1,4 @@
-# Eksport danych z Subiekt GT do pliku csv
+# Eksport danych z Subiekt GT do pliku csv - project suspended til aprill 2022
 
 Program eksportujący dane z utworzonego dedykowanego widoku w bazie danych do pliku csv
 
